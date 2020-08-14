@@ -9,8 +9,26 @@
 <br>
 <h2 align="center">Algumas das principais blibliotecas e frameworks atualmente utilizados em Javascript </h2>
 <br>
-<h2>REACT</h2>
+<h2 align="center">REACT</h2>
 <img src= "img/react.png">
+<p align="center">O React surgiu em 2011, no Facebook e é definida como, “uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário (UI)”. a biblioteca se transformou numa das principais do mundo no front-end. Ele usa componentes, que ajudam a encapsular código e estado. O uso de componentes facilita a construção de interfaces de usuário mais complexas. </p>
+<br>
+<h2 align="center">VUE.js</h2>
+<img src= "img/vue.png">
+<br>
+<p align="center">Vue JS é um framework JavaScript opensource, lançado em Fevereiro de 2014 por Evan You, Desenvolvedor que atuava em um dos projetos do Google Creative Labs, em 2014.Vue JS é muito utilizado para criar aplicações single page (página única) e também para desenvolver vários tipos de interfaces, que possuem necessidades de uma maior interação e uma melhor experiência para o usuário. </p>
+<br>
+<h2 align="center">AngularJS</h2>
+<img src= "img/Angularjs.png">
+<p align="center">Mantido pela Google e apoiado por uma enorme comunidade de desenvolvedores em todo o mundo, o AngularJS é um dos frameworks JavaScript mais importantes quando falamos de desenvolvimento web.Trata-se de um framework front-end opensource, baseado em JavaScript, para o desenvolvimento dinâmico de aplicações web. </p>
+<br>
+<h2 align="center">Node.js</h2>
+<img src= "node.jpg">
+<p align="center">Seu nascimento vem de 2009, durante uma conferência de JavaScript que ocorreu na Europa. Na época, o desenvolvedor Ryan Dahl mostrou seu experimento, que consistia em uma máquina virtual baseada no projeto JavaScript V8 da Google e que possuía um sistema de laço de eventos.   Node.js leva o JavaScript para o lado do servidor. (back-end). </p>
+
+
+
+
 
 
 

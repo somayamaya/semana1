@@ -22,8 +22,12 @@
 <img src= "img/Angularjs.png">
 <p align="center">Mantido pela Google e apoiado por uma enorme comunidade de desenvolvedores em todo o mundo, o AngularJS é um dos frameworks JavaScript mais importantes quando falamos de desenvolvimento web.Trata-se de um framework front-end opensource, baseado em JavaScript, para o desenvolvimento dinâmico de aplicações web. </p>
 <br>
+
 <h2 align="center">Node.js</h2>
-<img src= "node.jpg">
+
+![Node](img/node.jpg)
+
+
 <p align="center">Seu nascimento vem de 2009, durante uma conferência de JavaScript que ocorreu na Europa. Na época, o desenvolvedor Ryan Dahl mostrou seu experimento, que consistia em uma máquina virtual baseada no projeto JavaScript V8 da Google e que possuía um sistema de laço de eventos.   Node.js leva o JavaScript para o lado do servidor. (back-end). </p>
 
 
